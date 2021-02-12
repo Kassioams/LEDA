@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-01T09:30:05.199-0300</date>
+  <logger>KASSIO AUGUSTO DE MOURA SILVA</logger>
+  <level>FINE</level>
+  <message>File 119210551-KASSIO AUGUSTO DE MOURA SILVA.zip was received. It was sent by KASSIO AUGUSTO DE MOURA SILVA from IP 192.168.0.106 at 01-10-2020 09*30*05</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-03T14:47:06.529-0300</date>
+  <logger>KASSIO AUGUSTO DE MOURA SILVA</logger>
+  <level>FINE</level>
+  <message>File 119210551-KASSIO AUGUSTO DE MOURA SILVA.zip was received. It was sent by KASSIO AUGUSTO DE MOURA SILVA from IP 192.168.0.106 at 03-10-2020 14*47*06</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-03T15:46:35.762-0300</date>
+  <logger>KASSIO AUGUSTO DE MOURA SILVA</logger>
+  <level>FINE</level>
+  <message>File 119210551-KASSIO AUGUSTO DE MOURA SILVA.zip was received. It was sent by KASSIO AUGUSTO DE MOURA SILVA from IP 192.168.0.106 at 03-10-2020 15*46*35</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-03T16:59:02.713-0300</date>
+  <logger>KASSIO AUGUSTO DE MOURA SILVA</logger>
+  <level>FINE</level>
+  <message>File 119210551-KASSIO AUGUSTO DE MOURA SILVA.zip was received. It was sent by KASSIO AUGUSTO DE MOURA SILVA from IP 192.168.0.106 at 03-10-2020 16*59*02</message>
+</record>
